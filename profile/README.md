@@ -6,3 +6,7 @@
 - 端口：`25565`
 
 本服务器兼容所有主流 Java 版本和国际基岩版1.19.0~1.19.40。
+
+## 仓库目录
+
+[[私有] ServerMain](https://github.com/HJFunnyMinecraft/ServerMain) - 服务器启动器
