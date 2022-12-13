@@ -11,3 +11,7 @@
 
 - [[私有] ServerMain](https://github.com/HJFunnyMinecraft/ServerMain) - 服务器启动器
 - [[私有] ServerBackup](https://github.com/HJFunnyMinecraft/ServerBackup) - 服务器备份
+
+## 更多链接
+
+- [Microsoft Remote Desktop 下载](https://codezhangborui.eu.org/static/com.microsoft.rdc.androidx.apk)
