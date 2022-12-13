@@ -9,7 +9,8 @@
 
 ## 仓库目录
 
-- [[私有] ServerMain](https://github.com/HJFunnyMinecraft/ServerMain) - 服务器启动器
+- [[公开] ServerMain](https://github.com/HJFunnyMinecraft/ServerMain) - 服务器启动器
+- [[公开] ServicesChecker](https://github.com/HJFunnyMinecraft/ServicesChecker) - 检查 Minecraft Java 服务器是否正常工作，并在出现问题时尝试自行解决
 - [[私有] ServerBackup](https://github.com/HJFunnyMinecraft/ServerBackup) - 服务器备份
 
 ## 更多链接
